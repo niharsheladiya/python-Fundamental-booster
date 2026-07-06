@@ -6,7 +6,7 @@ A beginner-friendly Python console application built for the **PR.1 Fundamental 
 
 ## 🎥 Live Demo Video Link
 
-[Watch the live demo here](https://drive.google.com/file/d/18Cfy_pdT3Zui3kdTGjWbO2gzrn-kJMa-/view?usp=drivesdk)
+[Watch the live demo here] https://drive.google.com/file/d/1bkZ_PZrG6tRDtBpDxY4nFxvnkDk1qd4M/view?usp=drive_link
 
 ---
 
